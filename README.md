@@ -24,8 +24,33 @@ Prefer depth over noise. Build slow, build correct, build scalable.
 
 ```txt
 Languages   → C, Python, SQL
-Frontend    → HTML, CSS
-Tools       → Git, GitHub, Linux [Learning]
 Web: HTML, CSS
 Tools: Git, GitHub, Linux basics
-Mindset: Consistency > Motivation
+
+
+---
+## 🌐 SOCIAL PRESENCE
+
+<div align="center">
+
+<a href="https://github.com/Samdarshil" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="linkedin.com/in/darshil-samson-30a71a346" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Samdarshil" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-1a1a1a?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/Samdarshil" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:Samsondarshil@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>

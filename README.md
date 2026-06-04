@@ -49,8 +49,8 @@ Tools: Git, GitHub, Linux basics
   <img src="https://img.shields.io/badge/LeetCode-1a1a1a?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/Samdarshil" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://X.com/Samsondarshil" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="mailto:Samsondarshil@gmail.com" target="_blank">

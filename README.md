@@ -14,15 +14,18 @@
 
 ## 🧠 ABOUT
 
-Minimalist builder focused on systems, discipline, and execution.  
-Learning in public. Shipping in silence. Improving every cycle.
+Focused engineer-in-progress driven by systems thinking, fundamentals, and disciplined execution.  
+Prefer depth over noise. Build slow, build correct, build scalable.
+
 
 ---
 
 ## ⚙️ STACK
 
 ```txt
-Languages: C, Python, JavaScript (learning)
+Languages   → C, Python, SQL
+Frontend    → HTML, CSS
+Tools       → Git, GitHub, Linux [Learning]
 Web: HTML, CSS
 Tools: Git, GitHub, Linux basics
 Mindset: Consistency > Motivation

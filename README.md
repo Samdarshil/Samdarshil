@@ -17,7 +17,6 @@
 ---
 
 ## 🧠 ABOUT
-
 Focused engineer-in-progress driven by systems thinking, fundamentals, and disciplined execution.  
 Prefer depth over noise. Build slow, build correct, build scalable.
 

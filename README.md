@@ -22,7 +22,7 @@ Prefer depth over noise. Build slow, build correct, build scalable.
 
 ## ⚙️ STACK
 
-```txt
+
 Languages   → C, Python, SQL
 Web: HTML, CSS
 Tools: Git, GitHub, Linux basics

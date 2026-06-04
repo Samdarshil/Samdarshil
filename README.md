@@ -28,20 +28,20 @@ Prefer depth over noise. Build slow, build correct, build scalable.
 
 <div align="center">
 
----
+
 
 ### 🧠 Languages
 <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-1a1a1a?style=for-the-badge&logo=javascript&logoColor=white"/>
 
----
+
 
 ### 🌐 Frontend
 <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white"/>
 
----
+
 
 ### ⚙️ Tools & Platforms
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
@@ -49,7 +49,7 @@ Prefer depth over noise. Build slow, build correct, build scalable.
 <img src="https://img.shields.io/badge/Linux-1a1a1a?style=for-the-badge&logo=linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-0d0d0d?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
----
+
 
 ### 🧩 Concepts / Systems
 <img src="https://img.shields.io/badge/Data_Structures-000000?style=for-the-badge"/>
@@ -57,13 +57,7 @@ Prefer depth over noise. Build slow, build correct, build scalable.
 <img src="https://img.shields.io/badge/OOPs_Concepts-1a1a1a?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Problem_Solving-000000?style=for-the-badge"/>
 
----
 
-### 🧭 Philosophy
-<img src="https://img.shields.io/badge/Consistency-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/First_Principles-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Execution_Over_Talk-1a1a1a?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Long_Term_Thinking-000000?style=for-the-badge"/>
 
 </div>
 

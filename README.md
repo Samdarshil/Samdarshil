@@ -50,7 +50,7 @@ Tools: Git, GitHub, Linux basics
 </a>
 
 <a href="https://X.com/Samsondarshil" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white"/>
 </a>
 
 <a href="mailto:Samsondarshil@gmail.com" target="_blank">

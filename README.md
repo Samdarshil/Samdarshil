@@ -36,7 +36,7 @@ Prefer depth over noise. Build slow, build correct, build scalable.
 ### 🧠 Languages
 <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-1a1a1a?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-1a1a1a?style=for-the-badge&logo=SQL&logoColor=white"/>
 
 
 

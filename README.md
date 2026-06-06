@@ -3,7 +3,15 @@
 <!-- Elegant Animated Header -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,35:0d0d0d,70:1a1a1a,100:000000&text=Darshil%20Samson&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Engineered%20For%20Impact&descAlignY=63&descSize=20&descColor=e6e6e6&stroke=ffffff&strokeWidth=0.3"/>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,35:050505,70:111111,100:000000&text=Darshil%20Samson&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Engineered%20For%20Impact&descAlignY=63&descSize=20&descColor=d9d9d9&stroke=ffffff&strokeWidth=0.15"/>
+
+</div>
+
+<p align="center">
+  <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=1&duration=1&pause=1000&color=FFFFFF22&center=true&vCenter=true&width=1000&lines=────────────────────────────────────────────────────────────" />
+</p>
 <!-- Subtle Typing Identity -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=1200&color=CCCCCC&center=true&vCenter=true&width=600&lines=System+Thinker+%7C+Builder+%7C+Problem+Solver;Clean+Code+%E2%80%A2+Strong+Fundamentals+%E2%80%A2+Execution;Learning+in+Public+with+Intentional+Focus" />
 

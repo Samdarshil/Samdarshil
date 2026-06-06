@@ -2,7 +2,6 @@
 
 <!-- Elegant Animated Header -->
 <div align="center">
-<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=200&section=header&text=Engineered%20%20For%20%20Impact&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 

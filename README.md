@@ -1,6 +1,8 @@
 <div align="center">
 <!-- Elegant Animated Header -->
 
+---
+
   # 𓂀 Darshil Samson 𓂀
 
   <!-- Subtle Typing Identity -->

@@ -7,7 +7,6 @@
 
 </div>
 
-<br>
 <!-- Subtle Typing Identity -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=1200&color=CCCCCC&center=true&vCenter=true&width=600&lines=System+Thinker+%7C+Builder+%7C+Problem+Solver;Clean+Code+%E2%80%A2+Strong+Fundamentals+%E2%80%A2+Execution;Learning+in+Public+with+Intentional+Focus" />
 

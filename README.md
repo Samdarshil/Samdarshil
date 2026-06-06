@@ -1,7 +1,13 @@
 <div align="center">
 
 <!-- Elegant Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=160&section=header&text=ENGINEERED%20FOR%20IMPACT&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=55" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+YourName;Welcome+to+my+GitHub;Code.+Create.+Innovate." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/banner.svg" alt="Banner" width="100%">
+</p>
 
 <br>
 

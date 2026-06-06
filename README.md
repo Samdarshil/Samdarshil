@@ -3,7 +3,7 @@
 <!-- Elegant Animated Header -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:111111,100:000000&text=SAMDARSHIL&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CODE%20%E2%80%A2%20BUILD%20%E2%80%A2%20EVOLVE&descAlignY=60&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,35:0d0d0d,70:1a1a1a,100:000000&text=Darshil%20Samson&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Engineered%20For%20Impact&descAlignY=63&descSize=20&descColor=e6e6e6&stroke=ffffff&strokeWidth=0.3"/>
 
 </div>
 

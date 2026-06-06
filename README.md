@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Elegant Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=200&section=header&text=Engineered%20%20For%20%20Impact&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=200&section=header&text=Engineered%20For%20Impact&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Darshil%20Samson&descAlignY=60&descSize=18&descColor=d9d9d9"/>
 
 # 𓂀 Darshil Samson 𓂀
 

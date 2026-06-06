@@ -2,11 +2,7 @@
 
 <!-- Elegant Animated Header -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=320&color=0:000000,100:000000&text=DARSHIL%20SAMSON&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=ENGINEERED%20FOR%20IMPACT&descAlignY=62&descSize=22&descColor=d9d9d9"/>
-<p align="center">
-  <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=2500&pause=1000&color=FFFFFF55&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=1000&height=80&lines=◜+◝+◜+◝+◜+◝+◜+◝+◜+◝+◜+◝+◜+◝+◜+◝+◜+◝+◜+◝" />
-</p>
-
+<img width="100%" src="https://raw.githubusercontent.com/Samdarshil/Samdarshil/main/banner.png" />
 <!-- Subtle Typing Identity -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=1200&color=CCCCCC&center=true&vCenter=true&width=600&lines=System+Thinker+%7C+Builder+%7C+Problem+Solver;Clean+Code+%E2%80%A2+Strong+Fundamentals+%E2%80%A2+Execution;Learning+in+Public+with+Intentional+Focus" />
 </div>

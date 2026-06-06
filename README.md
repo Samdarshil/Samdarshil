@@ -1,8 +1,8 @@
 <div align="center">
 <!-- Elegant Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:111111&height=240&section=header&text=Darshil%20Samson&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=ENGINEERED%20FOR%20IMPACT&descAlignY=63&descSize=20&descColor=e6e6e6&stroke=ffffff&strokeWidth=0.4"/>
+# 𓂀 Darshil Samson 𓂀
 <!-- Subtle Typing Identity -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=1200&color=CCCCCC&center=true&vCenter=true&width=600&lines=System+Thinker+%7C+Builder+%7C+Problem+Solver;Clean+Code+%E2%80%A2+Strong+Fundamentals+%E2%80%A2+Execution;Learning+in+Public+with+Intentional+Focus" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=1200&color=CCCCCC&center=true&vCenter=true&width=750&lines=System+Thinker+%7C+Builder+%7C+Problem+Solver;Clean+Code+%E2%80%A2+Strong+Fundamentals+%E2%80%A2+Execution;Learning+in+Public+with+Intentional+Focus;Engineered+For+Impact" />
 </div>
 
 ---

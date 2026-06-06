@@ -1,13 +1,11 @@
 <div align="center">
 
 <!-- Elegant Animated Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+YourName;Welcome+to+my+GitHub;Code.+Create.+Innovate." alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/banner.svg" alt="Banner" width="100%">
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:111111,100:000000&text=SAMDARSHIL&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CODE%20%E2%80%A2%20BUILD%20%E2%80%A2%20EVOLVE&descAlignY=60&descSize=18"/>
+
+</div>
 
 <br>
 

@@ -64,7 +64,7 @@ Prefer depth over noise. Build slow, build correct, build scalable.
   <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="linkedin.com/in/darshil-samson-30a71a346" target="_blank">
+<a href="https://www.linkedin.com/in/darshil-samson-30a71a346/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 

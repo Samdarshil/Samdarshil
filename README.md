@@ -35,7 +35,7 @@ Prefer depth over noise. Build slow, build correct, build scalable.
 <table>
 <tr>
 <td align="center" width="90"><img src="https://cdn.simpleicons.org/html5" width="38" height="38"/><br/><sub><code>HTML5</code></sub></td>
-<td align="center" width="90"><img src="https://cdn.simpleicons.org/css3" width="38" height="38"/><br/><sub><code>CSS3</code></sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/css" width="38" height="38"/><br/><sub><code>CSS3</code></sub></td>
 </tr>
 </table>
 
@@ -46,7 +46,7 @@ Prefer depth over noise. Build slow, build correct, build scalable.
 <td align="center" width="90"><img src="https://cdn.simpleicons.org/git" width="38" height="38"/><br/><sub><code>GIT</code></sub></td>
 <td align="center" width="90"><img src="https://cdn.simpleicons.org/github" width="38" height="38"/><br/><sub><code>GITHUB</code></sub></td>
 <td align="center" width="90"><img src="https://cdn.simpleicons.org/linux" width="38" height="38"/><br/><sub><code>LINUX</code></sub></td>
-<td align="center" width="90"><img src="https://cdn.simpleicons.org/visualstudiocode" width="38" height="38"/><br/><sub><code>VS CODE</code></sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="38" height="38" alt="Visual Studio Code"/><br/><sub><code>VS CODE</code></sub></td>
 </tr>
 </table>
 
@@ -65,8 +65,7 @@ Prefer depth over noise. Build slow, build correct, build scalable.
 
 ## 🌐 SOCIAL PRESENCE
 
-<a href="https://github.com/Samdarshil" target="_blank"><img src="https://cdn.simpleicons.org/github" width="34" height="34"/></a>
-&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Samdarshil"><img src="https://cdn.simpleicons.org/github" width="34" height="34" alt="GitHub"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/darshil-samson-30a71a346/" target="_blank"><img src="https://cdn.simpleicons.org/linkedin" width="34" height="34"/></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/u/Samdarshil" target="_blank"><img src="https://cdn.simpleicons.org/leetcode" width="34" height="34"/></a>

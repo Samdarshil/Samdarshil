@@ -1,6 +1,10 @@
+<table>
+<tr>
+<td>
+
 <div align="center">
 
-<img src="banner_1.svg" width="100%" alt="banner"/>
+<img src="https://raw.githubusercontent.com/Samdarshil/Samdarshil/main/assets/banner.svg" width="100%" alt="banner"/>
 
 # 𓂀 Darshil Samson 𓂀
   <!-- Subtle Typing Identity -->
@@ -63,3 +67,7 @@ Prefer depth over noise. Build slow, build correct, build scalable.
   <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </div>
+
+</td>
+</tr>
+</table>

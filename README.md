@@ -27,47 +27,63 @@ Prefer depth over noise.
 <div align="center">
 ⚙️ TECH STACK
 
-🧠 Languages
+<sub><code>LANGUAGES</code></sub>
 
-<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-1a1a1a?style=for-the-badge&logo=mysql&logoColor=white"/>
+<table>
+<tr>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/c/8A8A8A" width="38" height="38"/><br/><sub><code>C</code></sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/python/8A8A8A" width="38" height="38"/><br/><sub><code>PYTHON</code></sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/mysql/8A8A8A" width="38" height="38"/><br/><sub><code>SQL</code></sub></td>
+</tr>
+</table>
+<sub><code>FRONTEND</code></sub>
 
-🌐 Frontend
+<table>
+<tr>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/html5/8A8A8A" width="38" height="38"/><br/><sub><code>HTML5</code></sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/css3/8A8A8A" width="38" height="38"/><br/><sub><code>CSS3</code></sub></td>
+</tr>
+</table>
+<sub><code>TOOLS & PLATFORMS</code></sub>
 
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white"/>
-
-⚙️ Tools & Platforms
-
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-1a1a1a?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
-🧩 Concepts / Systems
-
-<img src="https://img.shields.io/badge/Data_Structures-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Algorithms-111111?style=for-the-badge"/>
+<table>
+<tr>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/git/8A8A8A" width="38" height="38"/><br/><sub><code>GIT</code></sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/github/8A8A8A" width="38" height="38"/><br/><sub><code>GITHUB</code></sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/linux/8A8A8A" width="38" height="38"/><br/><sub><code>LINUX</code></sub></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/visualstudiocode/8A8A8A" width="38" height="38"/><br/><sub><code>VS CODE</code></sub></td>
+</tr>
+</table>
+<sub><code>CONCEPTS & SYSTEMS</code></sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Data_Structures-1a1a1a?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Algorithms-1a1a1a?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OOPs_Concepts-1a1a1a?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Problem_Solving-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem_Solving-1a1a1a?style=for-the-badge"/>
 
 </div>
 
 <div align="center">
+🌐 SOCIAL PRESENCE
 
-  🌐 SOCIAL PRESENCE
+<a href="https://github.com/Samdarshil" target="_blank"><img src="https://cdn.simpleicons.org/github/8A8A8A" width="34" height="34"/></a>
+   
+<a href="https://www.linkedin.com/in/darshil-samson-30a71a346/" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/8A8A8A" width="34" height="34"/></a>
+   
+<a href="https://leetcode.com/u/Samdarshil" target="_blank"><img src="https://cdn.simpleicons.org/leetcode/8A8A8A" width="34" height="34"/></a>
+   
+<a href="https://X.com/Samsondarshil" target="_blank"><img src="https://cdn.simpleicons.org/x/8A8A8A" width="34" height="34"/></a>
+   
+<a href="mailto:Samsondarshil@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/8A8A8A" width="34" height="34"/></a>
 
-<a href="https://github.com/Samdarshil" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/darshil-samson-30a71a346/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/Samdarshil" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-1a1a1a?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-<a href="https://X.com/Samsondarshil" target="_blank">
+</div>
+<br/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Samdarshil/Samdarshil/main/assets/footer.svg" width="100%" alt="footer"/>
+</div>
+</td>
+</tr>
+</table>
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 <a href="mailto:Samsondarshil@gmail.com" target="_blank">

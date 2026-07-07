@@ -1,83 +1,80 @@
 <div align="center">
-  
-  # 𓂀 Darshil Samson 𓂀
 
-  <!-- Subtle Typing Identity -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=1200&color=CCCCCC&center=true&vCenter=true&width=750&lines=System+Thinker+%7C+Builder+%7C+Problem+Solver;Clean+Code+%E2%80%A2+Strong+Fundamentals+%E2%80%A2+Execution;Learning+in+Public+with+Intentional+Focus;Engineered+For+Impact" />
-</div>
+# Darshil Samson
 
----
-
-## 🧠 ABOUT
-Focused engineer-in-progress driven by systems thinking, fundamentals, and disciplined execution.  
-Prefer depth over noise. Build slow, build correct, build scalable.
-
-
----
-
-
-
-<div align="center">
-
-## ⚙️ TECH STACK
-
-### 🧠 Languages
-<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-1a1a1a?style=for-the-badge&logo=SQL&logoColor=white"/>
-
-
-
-### 🌐 Frontend
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white"/>
-
-
-
-### ⚙️ Tools & Platforms
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-1a1a1a?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-0d0d0d?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-
-
-
-### 🧩 Concepts / Systems
-<img src="https://img.shields.io/badge/Data_Structures-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Algorithms-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OOPs_Concepts-1a1a1a?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Problem_Solving-000000?style=for-the-badge"/>
-
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3200&pause=1400&color=999999&center=true&vCenter=true&width=620&lines=AI%2FML+Engineer+%C2%B7+Systems+Thinker+%C2%B7+Builder;Clean+Architecture+%C2%B7+Strong+Fundamentals;Depth+Over+Breadth" alt="Typing SVG" />
 
 </div>
 
-
----
-
+<br/>
 
 <div align="center">
+<img src="https://img.shields.io/badge/-‎-000000?style=flat-square&logoColor=none" height="2" width="600"/>
+</div>
 
-## 🌐 SOCIAL PRESENCE
+<br/>
+
+## About
+
+Software engineer focused on AI/ML systems — from multi-agent architectures to applied computer vision. I care about strong fundamentals, clean architecture, and writing code that holds up under review.
+
+I favor depth over breadth, and correctness over speed.
+
+<br/>
+
+## Tech Stack
+
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=E5E5E5"/>
+<img src="https://img.shields.io/badge/C-0A0A0A?style=for-the-badge&logo=c&logoColor=E5E5E5"/>
+<img src="https://img.shields.io/badge/SQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=E5E5E5"/>
+
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5&logoColor=E5E5E5"/>
+<img src="https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge&logo=css3&logoColor=E5E5E5"/>
+
+**Tools & Platforms**
+<br/>
+<img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=E5E5E5"/>
+<img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=E5E5E5"/>
+<img src="https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=E5E5E5"/>
+<img src="https://img.shields.io/badge/VS_Code-0A0A0A?style=for-the-badge&logo=visualstudiocode&logoColor=E5E5E5"/>
+
+**Concepts**
+<br/>
+<img src="https://img.shields.io/badge/Data_Structures-0A0A0A?style=for-the-badge&logoColor=E5E5E5"/>
+<img src="https://img.shields.io/badge/Algorithms-0A0A0A?style=for-the-badge&logoColor=E5E5E5"/>
+<img src="https://img.shields.io/badge/OOP-0A0A0A?style=for-the-badge&logoColor=E5E5E5"/>
+<img src="https://img.shields.io/badge/Problem_Solving-0A0A0A?style=for-the-badge&logoColor=E5E5E5"/>
+
+<br/>
+
+<div align="center">
+<img src="https://img.shields.io/badge/-‎-000000?style=flat-square&logoColor=none" height="2" width="600"/>
+</div>
+
+<br/>
+
+## Connect
+
+<div align="center">
 
 <a href="https://github.com/Samdarshil" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=E5E5E5"/>
 </a>
-
 <a href="https://www.linkedin.com/in/darshil-samson-30a71a346/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=E5E5E5"/>
 </a>
-
 <a href="https://leetcode.com/u/Samdarshil" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-1a1a1a?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LeetCode-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=E5E5E5"/>
 </a>
-
 <a href="https://X.com/Samsondarshil" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white"/>
+  <img src="https://img.shields.io/badge/X-0A0A0A?style=for-the-badge&logo=x&logoColor=E5E5E5"/>
 </a>
-
 <a href="mailto:Samsondarshil@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=E5E5E5"/>
 </a>
 
 </div>

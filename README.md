@@ -47,7 +47,7 @@ Prefer depth over noise. Build slow, build correct, build scalable.
 <td align="center" width="90">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubwhite.svg">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="38" height="38" alt="GitHub">
+    <img src="[https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg)" width="38" height="38" alt="GitHub">
   </picture><br/>
   <sub><code>GITHUB</code></sub>
 </td>

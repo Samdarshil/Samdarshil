@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Samdarshil/Samdarshil/main/assets/banner.svg" width="100%" alt="banner"/>
+<img src="banner_1.svg" width="100%" alt="banner"/>
 
 # 𓂀 Darshil Samson 𓂀
   <!-- Subtle Typing Identity -->

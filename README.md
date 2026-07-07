@@ -12,7 +12,7 @@ Focused engineer-in-progress driven by systems thinking, fundamentals, and disci
 Prefer depth over noise. Build slow, build correct, build scalable.
 
 
-</div>
+
 
 
 ---

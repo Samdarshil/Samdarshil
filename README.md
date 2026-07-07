@@ -32,26 +32,31 @@ Prefer depth over noise.
 <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-1a1a1a?style=for-the-badge&logo=mysql&logoColor=white"/>
+
 🌐 Frontend
 
 <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white"/>
+
 ⚙️ Tools & Platforms
 
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-1a1a1a?style=for-the-badge&logo=linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
 🧩 Concepts / Systems
 
 <img src="https://img.shields.io/badge/Data_Structures-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Algorithms-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OOPs_Concepts-1a1a1a?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Problem_Solving-000000?style=for-the-badge"/>
+
 </div>
 
 <div align="center">
-🌐 SOCIAL PRESENCE
+
+  🌐 SOCIAL PRESENCE
 
 <a href="https://github.com/Samdarshil" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=white"/>

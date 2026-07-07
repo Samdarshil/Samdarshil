@@ -1,6 +1,4 @@
-<table>
-<tr>
-<td>
+
 
 <div align="center">
 
@@ -67,7 +65,3 @@ Prefer depth over noise. Build slow, build correct, build scalable.
   <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </div>
-
-</td>
-</tr>
-</table>

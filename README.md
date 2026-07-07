@@ -1,3 +1,4 @@
+<div align="center">
   # 𓂀 Darshil Samson 𓂀
 
   <!-- Subtle Typing Identity -->
@@ -9,6 +10,9 @@
 ## 🧠 ABOUT
 Focused engineer-in-progress driven by systems thinking, fundamentals, and disciplined execution.  
 Prefer depth over noise. Build slow, build correct, build scalable.
+
+
+</div>
 
 
 ---

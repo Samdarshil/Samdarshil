@@ -25,7 +25,8 @@ Prefer depth over noise.
 </div>
 
 <div align="center">
-⚙️ TECH STACK
+
+  ## ⚙️ TECH STACK
 
 <sub><code>LANGUAGES</code></sub>
 
@@ -78,8 +79,7 @@ Prefer depth over noise.
 
 </div>
 <br/>
-<div align="center">
-<img src="https://raw.githubusercontent.com/Samdarshil/Samdarshil/main/assets/footer.svg" width="100%" alt="footer"/>
+
 </div>
 </td>
 </tr>

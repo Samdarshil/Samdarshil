@@ -65,8 +65,6 @@ Prefer depth over noise. Build slow, build correct, build scalable.
 
 ## 🌐 SOCIAL PRESENCE
 
-<a href="https://github.com/Samdarshil"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="34" height="34" alt="GitHub"/></a>
-&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/darshil-samson-30a71a346/"><img src="https://skillicons.dev/icons?i=linkedin" width="38" height="38" alt="LinkedIn" width="34" height="34" alt="LinkedIn"/></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/u/Samdarshil" target="_blank"><img src="https://cdn.simpleicons.org/leetcode" width="34" height="34"/></a>

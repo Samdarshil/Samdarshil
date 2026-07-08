@@ -1,7 +1,7 @@
 
+<img src="banner_5.svg" width="100%" alt="banner"/>
 <div align="center">
 
-<img src="banner_5.svg" width="100%" alt="banner"/>
 
 # 𓂀 Darshil Samson 𓂀
   <!-- Subtle Typing Identity -->
@@ -75,4 +75,3 @@ Prefer depth over noise. Build slow, build correct, build scalable.
 
 </div>
 <img src="footer_2.svg" width="100%" alt="footer"/>
-<br/>

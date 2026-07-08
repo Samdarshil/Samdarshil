@@ -74,5 +74,5 @@ Prefer depth over noise. Build slow, build correct, build scalable.
 <a href="mailto:Samsondarshil@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail" width="34" height="34"/></a>
 
 </div>
-
+<img src="footer_2.svg" width="100%" alt="footer"/>
 <br/>

@@ -1,6 +1,6 @@
-<img src="banner_5.svg" width="100%" alt="banner"/>
 <div align="center">
 
+<img src="banner_5.svg" width="100%" alt="banner"/>
 
 # 𓂀 Darshil Samson 𓂀
   <!-- Subtle Typing Identity -->

@@ -1,6 +1,9 @@
-<div align="center">
+<img
+src="https://raw.githubusercontent.com/Samdarshil/Samdarshil/main/banner_5.svg"
+width="100%"
+alt="Banner">
 
-<img src="banner_5.svg" width="100%" alt="banner"/>
+<div align="center">
 
 # 𓂀 Darshil Samson 𓂀
   <!-- Subtle Typing Identity -->

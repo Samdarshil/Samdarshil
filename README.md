@@ -1,4 +1,3 @@
-
 <img src="banner_5.svg" width="100%" alt="banner"/>
 <div align="center">
 

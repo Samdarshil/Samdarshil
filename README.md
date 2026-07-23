@@ -56,7 +56,11 @@ Prefer depth over noise. Build slow, build correct, build scalable.
 <table>
 <tr>
 <td align="center" width="90"><img src="https://cdn.simpleicons.org/git" width="38" height="38"/><br/><sub><code>GIT</code></sub></td>
-<td align="center" width="90"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="38" height="38"/><br/><sub><code>GitHub</code></sub></td>
+<td align="center" width="90">
+  <img src="https://cdn.simpleicons.org/github/white" width="38" height="38"/>
+  <br/>
+  <sub><code>GitHub</code></sub>
+</td>
 <td align="center" width="90"><img src="https://cdn.simpleicons.org/linux" width="38" height="38"/><br/><sub><code>LINUX</code></sub></td>
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" width="38" height="38" alt="VS Code"/><br/><sub><code>VS CODE</code></sub></td>
 </tr>

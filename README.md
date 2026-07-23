@@ -41,7 +41,8 @@ Prefer depth over noise. Build slow, build correct, build scalable.
 
 <table>
 <tr>
-<td align="center" width="90"><img src="https://cdn.simpleicons.org/html5" width="38" height="38"/><br/><sub><code>HTML5</code></sub></td>
+<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="38" height="38"/><br/><sub><code>HTML5</code></sub>
+</td>
 <td align="center" width="90"><img src="https://cdn.simpleicons.org/css" width="38" height="38"/><br/><sub><code>CSS3</code></sub></td>
 </tr>
 </table>

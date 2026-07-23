@@ -26,7 +26,11 @@ Prefer depth over noise. Build slow, build correct, build scalable.
 
 <table>
 <tr>
-<td align="center" width="90"><img src="https://cdn.simpleicons.org/c" width="38" height="38"/><br/><sub><code>C</code></sub></td>
+<td align="center" width="90">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="38" height="38"/>
+  <br/>
+  <sub><code>C</code></sub>
+</td>
 <td align="center" width="90">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="38" height="38"/>
   <br/>

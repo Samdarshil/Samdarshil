@@ -77,8 +77,9 @@ Prefer depth over noise. Build slow, build correct, build scalable.
 <a href="https://leetcode.com/u/Samdarshil" target="_blank"><img src="https://cdn.simpleicons.org/leetcode" width="34" height="34"/></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://x.com/Samsondarshil" target="_blank">
-  <img src="https://img.shields.io/badge/X-FFFFFF?style=for-the-badge&logo=x&logoColor=000000" alt="X"/>
+  <img src="https://cdn.simpleicons.org/x/white" width="34" height="34" alt="X"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:Samsondarshil@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail" width="34" height="34"/></a>
 

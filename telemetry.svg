@@ -1,0 +1,90 @@
+<svg width="100%" viewBox="0 0 900 374" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="System telemetry: technology stack grouped by AI/ML, computer vision, backend, frontend, tools and platforms, and foundations">
+  <rect width="900" height="374" fill="#050710" />
+  <rect x="0.5" y="0.5" width="899" height="373" fill="none" stroke="#1E293B" stroke-width="1" />
+<text x="30" y="47" font-family="'Fira Code',Consolas,monospace" font-size="11.5" letter-spacing="1.5" fill="#64748B">AI / ML</text>
+<g>
+      <rect x="200.0" y="30" width="74.5" height="26" rx="13" fill="#0A0E1A" stroke="#22D3EE" stroke-opacity="0.55" stroke-width="1" />
+      <text x="237.2" y="47" text-anchor="middle" font-family="'Fira Code',Consolas,monospace" font-size="12.5" fill="#E5E7EB">Python</text>
+    </g>
+<g>
+      <rect x="284.5" y="30" width="128.8" height="26" rx="13" fill="#0A0E1A" stroke="#22D3EE" stroke-opacity="0.55" stroke-width="1" />
+      <text x="348.9" y="47" text-anchor="middle" font-family="'Fira Code',Consolas,monospace" font-size="12.5" fill="#E5E7EB">Google Gemini</text>
+    </g>
+<g>
+      <rect x="423.2" y="30" width="121.0" height="26" rx="13" fill="#0A0E1A" stroke="#22D3EE" stroke-opacity="0.55" stroke-width="1" />
+      <text x="483.8" y="47" text-anchor="middle" font-family="'Fira Code',Consolas,monospace" font-size="12.5" fill="#E5E7EB">scikit-learn</text>
+    </g>
+<g>
+      <rect x="554.2" y="30" width="90.0" height="26" rx="13" fill="#0A0E1A" stroke="#22D3EE" stroke-opacity="0.55" stroke-width="1" />
+      <text x="599.2" y="47" text-anchor="middle" font-family="'Fira Code',Consolas,monospace" font-size="12.5" fill="#E5E7EB">Pydantic</text>
+    </g>
+<text x="30" y="101" font-family="'Fira Code',Consolas,monospace" font-size="11.5" letter-spacing="1.5" fill="#64748B">COMPUTER VISION</text>
+<g>
+      <rect x="200.0" y="84" width="74.5" height="26" rx="13" fill="#0A0E1A" stroke="#22D3EE" stroke-opacity="0.55" stroke-width="1" />
+      <text x="237.2" y="101" text-anchor="middle" font-family="'Fira Code',Consolas,monospace" font-size="12.5" fill="#E5E7EB">OpenCV</text>
+    </g>
+<g>
+      <rect x="284.5" y="84" width="128.8" height="26" rx="13" fill="#0A0E1A" stroke="#22D3EE" stroke-opacity="0.55" stroke-width="1" />
+      <text x="348.9" y="101" text-anchor="middle" font-family="'Fira Code',Consolas,monospace" font-size="12.5" fill="#E5E7EB">Tesseract OCR</text>
+    </g>
+<text x="30" y="155" font-family="'Fira Code',Consolas,monospace" font-size="11.5" letter-spacing="1.5" fill="#64748B">BACKEND</text>
+<g>
+      <rect x="200.0" y="138" width="82.2" height="26" rx="13" fill="#0A0E1A" stroke="#A78BFA" stroke-opacity="0.55" stroke-width="1" />
+      <text x="241.1" y="155" text-anchor="middle" font-family="'Fira Code',Consolas,monospace" font-size="12.5" fill="#E5E7EB">FastAPI</text>
+    </g>
+<g>
+      <rect x="292.2" y="138" width="97.8" height="26" rx="13" fill="#0A0E1A" stroke="#A78BFA" stroke-opacity="0.55" stroke-width="1" />
+      <text x="341.1" y="155" text-anchor="middle" font-family="'Fira Code',Consolas,monospace" font-size="12.5" fill="#E5E7EB">REST APIs</text>
+    </g>
+<g>
+      <rect x="400.0" y="138" width="51.2" height="26" rx="13" fill="#0A0E1A" stroke="#A78BFA" stroke-opacity="0.55" stroke-width="1" />
+      <text x="425.6" y="155" text-anchor="middle" font-family="'Fira Code',Consolas,monospace" font-size="12.5" fill="#E5E7EB">SSE</text>
+    </g>
+<text x="30" y="209" font-family="'Fira Code',Consolas,monospace" font-size="11.5" letter-spacing="1.5" fill="#64748B">FRONTEND</text>
+<g>
+      <rect x="200.0" y="192" width="66.8" height="26" rx="13" fill="#0A0E1A" stroke="#A78BFA" stroke-opacity="0.55" stroke-width="1" />
+      <text x="233.4" y="209" text-anchor="middle" font-family="'Fira Code',Consolas,monospace" font-size="12.5" fill="#E5E7EB">React</text>
+    </g>
+<g>
+      <rect x="276.8" y="192" width="105.5" height="26" rx="13" fill="#0A0E1A" stroke="#A78BFA" stroke-opacity="0.55" stroke-width="1" />
+      <text x="329.5" y="209" text-anchor="middle" font-family="'Fira Code',Consolas,monospace" font-size="12.5" fill="#E5E7EB">TypeScript</text>
+    </g>
+<g>
+      <rect x="392.2" y="192" width="121.0" height="26" rx="13" fill="#0A0E1A" stroke="#A78BFA" stroke-opacity="0.55" stroke-width="1" />
+      <text x="452.8" y="209" text-anchor="middle" font-family="'Fira Code',Consolas,monospace" font-size="12.5" fill="#E5E7EB">Tailwind CSS</text>
+    </g>
+<g>
+      <rect x="523.2" y="192" width="105.5" height="26" rx="13" fill="#0A0E1A" stroke="#A78BFA" stroke-opacity="0.55" stroke-width="1" />
+      <text x="576.0" y="209" text-anchor="middle" font-family="'Fira Code',Consolas,monospace" font-size="12.5" fill="#E5E7EB">JavaScript</text>
+    </g>
+<text x="30" y="263" font-family="'Fira Code',Consolas,monospace" font-size="11.5" letter-spacing="1.5" fill="#64748B">TOOLS &amp; PLATFORMS</text>
+<g>
+      <rect x="200.0" y="246" width="51.2" height="26" rx="13" fill="#0A0E1A" stroke="#34D399" stroke-opacity="0.55" stroke-width="1" />
+      <text x="225.6" y="263" text-anchor="middle" font-family="'Fira Code',Consolas,monospace" font-size="12.5" fill="#E5E7EB">Git</text>
+    </g>
+<g>
+      <rect x="261.2" y="246" width="136.5" height="26" rx="13" fill="#0A0E1A" stroke="#34D399" stroke-opacity="0.55" stroke-width="1" />
+      <text x="329.5" y="263" text-anchor="middle" font-family="'Fira Code',Consolas,monospace" font-size="12.5" fill="#E5E7EB">GitHub Actions</text>
+    </g>
+<g>
+      <rect x="407.8" y="246" width="74.5" height="26" rx="13" fill="#0A0E1A" stroke="#34D399" stroke-opacity="0.55" stroke-width="1" />
+      <text x="445.0" y="263" text-anchor="middle" font-family="'Fira Code',Consolas,monospace" font-size="12.5" fill="#E5E7EB">Docker</text>
+    </g>
+<g>
+      <rect x="492.2" y="246" width="66.8" height="26" rx="13" fill="#0A0E1A" stroke="#34D399" stroke-opacity="0.55" stroke-width="1" />
+      <text x="525.6" y="263" text-anchor="middle" font-family="'Fira Code',Consolas,monospace" font-size="12.5" fill="#E5E7EB">Linux</text>
+    </g>
+<g>
+      <rect x="569.0" y="246" width="82.2" height="26" rx="13" fill="#0A0E1A" stroke="#34D399" stroke-opacity="0.55" stroke-width="1" />
+      <text x="610.1" y="263" text-anchor="middle" font-family="'Fira Code',Consolas,monospace" font-size="12.5" fill="#E5E7EB">VS Code</text>
+    </g>
+<text x="30" y="317" font-family="'Fira Code',Consolas,monospace" font-size="11.5" letter-spacing="1.5" fill="#64748B">FOUNDATIONS</text>
+<g>
+      <rect x="200.0" y="300" width="35.8" height="26" rx="13" fill="#0A0E1A" stroke="#34D399" stroke-opacity="0.55" stroke-width="1" />
+      <text x="217.9" y="317" text-anchor="middle" font-family="'Fira Code',Consolas,monospace" font-size="12.5" fill="#E5E7EB">C</text>
+    </g>
+<g>
+      <rect x="245.8" y="300" width="51.2" height="26" rx="13" fill="#0A0E1A" stroke="#34D399" stroke-opacity="0.55" stroke-width="1" />
+      <text x="271.4" y="317" text-anchor="middle" font-family="'Fira Code',Consolas,monospace" font-size="12.5" fill="#E5E7EB">SQL</text>
+    </g>
+</svg>

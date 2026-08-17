@@ -89,17 +89,36 @@ Four applied AI/ML and software-engineering builds, each self-contained with its
 
 ## `05` SYSTEM TELEMETRY
 
-<img src="telemetry.svg" width="100%" alt="Technology stack grouped by category: AI/ML, computer vision, backend, frontend, tools and platforms, and foundations" />
+<img src="assets/scanner.svg" width="100%" alt="System telemetry panel header with a scanning indicator" />
 
-<br />
+**AI / ML**
+[![Python](https://img.shields.io/badge/Python-0B0F1E?style=for-the-badge&logo=python&logoColor=white)](#)
+[![Google Gemini](https://img.shields.io/badge/Google_Gemini-0B0F1E?style=for-the-badge&logo=googlegemini&logoColor=white)](#)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-0B0F1E?style=for-the-badge&logo=scikitlearn&logoColor=white)](#)
 
-## `06` INCOMING SIGNALS
+**Backend**
+[![FastAPI](https://img.shields.io/badge/FastAPI-0B0F1E?style=for-the-badge&logo=fastapi&logoColor=white)](#)
+[![Flask](https://img.shields.io/badge/Flask-0B0F1E?style=for-the-badge&logo=flask&logoColor=white)](#)
 
-```
-[01] AGENTIC AI SYSTEMS       — full Google ADK runner integration
-[02] AGENT-AS-TOOL PROTOCOLS  — exposing agent pipelines as MCP tools
-[03] GAME SYSTEMS ARCHITECTURE — VOID's Calamity, in development
-```
+**Frontend**
+[![React](https://img.shields.io/badge/React-0B0F1E?style=for-the-badge&logo=react&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-0B0F1E?style=for-the-badge&logo=typescript&logoColor=white)](#)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0B0F1E?style=for-the-badge&logo=tailwindcss&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-0B0F1E?style=for-the-badge&logo=javascript&logoColor=white)](#)
+
+**Computer Vision**
+[![OpenCV](https://img.shields.io/badge/OpenCV-0B0F1E?style=for-the-badge&logo=opencv&logoColor=white)](#)
+[![Tesseract OCR](https://img.shields.io/badge/Tesseract_OCR-0B0F1E?style=for-the-badge)](#)
+
+**DevOps & Tools**
+[![Docker](https://img.shields.io/badge/Docker-0B0F1E?style=for-the-badge&logo=docker&logoColor=white)](#)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0B0F1E?style=for-the-badge&logo=githubactions&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-0B0F1E?style=for-the-badge&logo=git&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/Linux-0B0F1E?style=for-the-badge&logo=linux&logoColor=white)](#)
+
+**Foundations**
+[![C](https://img.shields.io/badge/C-0B0F1E?style=for-the-badge&logo=c&logoColor=white)](#)
+[![SQL](https://img.shields.io/badge/SQL-0B0F1E?style=for-the-badge)](#)
 
 <br />
 

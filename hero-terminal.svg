@@ -1,0 +1,120 @@
+<svg width="100%" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Darshil Samson — galactic terminal boot sequence, resolving to identity banner">
+  <defs>
+    <radialGradient id="bgGlow" cx="50%" cy="35%" r="75%">
+      <stop offset="0%" stop-color="#0E1630" />
+      <stop offset="55%" stop-color="#070A16" />
+      <stop offset="100%" stop-color="#040509" />
+    </radialGradient>
+    <linearGradient id="ringGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0" />
+      <stop offset="50%" stop-color="#22D3EE" stop-opacity="0.55" />
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0" />
+    </linearGradient>
+    <style>
+      .mono { font-family: 'Fira Code', 'SFMono-Regular', Consolas, monospace; }
+    </style>
+  </defs>
+
+  <rect width="900" height="260" fill="url(#bgGlow)" />
+  <rect x="0.5" y="0.5" width="899" height="259" fill="none" stroke="#1E293B" stroke-width="1" />
+
+  <!-- starfield, always alive -->
+    <circle cx="572.7" cy="16.0" r="0.88" fill="#F5F7FF">
+      <animate attributeName="opacity" values="0.29;1;0.29" dur="2.8s" begin="2.21s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="795.1" cy="30.9" r="1.02" fill="#F5F7FF">
+      <animate attributeName="opacity" values="0.25;1;0.25" dur="2.45s" begin="0.66s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="33.4" cy="57.7" r="1.25" fill="#F5F7FF">
+      <animate attributeName="opacity" values="0.27;1;0.27" dur="3.38s" begin="0.66s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="722.3" cy="11.6" r="1.41" fill="#F5F7FF">
+      <animate attributeName="opacity" values="0.18;1;0.18" dur="3.66s" begin="1.02s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="852.3" cy="90.8" r="0.69" fill="#F5F7FF">
+      <animate attributeName="opacity" values="0.27;1;0.27" dur="2.57s" begin="2.54s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="720.3" cy="185.1" r="1.14" fill="#F5F7FF">
+      <animate attributeName="opacity" values="0.26;1;0.26" dur="4.15s" begin="1.14s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="739.9" cy="158.4" r="1.46" fill="#F5F7FF">
+      <animate attributeName="opacity" values="0.16;1;0.16" dur="3.44s" begin="2.11s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="210.6" cy="79.5" r="0.68" fill="#F5F7FF">
+      <animate attributeName="opacity" values="0.21;1;0.21" dur="2.82s" begin="0.3s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="569.4" cy="97.6" r="0.97" fill="#F5F7FF">
+      <animate attributeName="opacity" values="0.34;1;0.34" dur="2.78s" begin="0.8s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="580.3" cy="156.2" r="0.77" fill="#F5F7FF">
+      <animate attributeName="opacity" values="0.23;1;0.23" dur="3.71s" begin="0.49s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="880.8" cy="163.6" r="1.16" fill="#F5F7FF">
+      <animate attributeName="opacity" values="0.31;1;0.31" dur="3.63s" begin="2.53s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="211.6" cy="17.7" r="0.92" fill="#F5F7FF">
+      <animate attributeName="opacity" values="0.34;1;0.34" dur="2.88s" begin="0.63s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="781.2" cy="85.5" r="1.26" fill="#F5F7FF">
+      <animate attributeName="opacity" values="0.24;1;0.24" dur="3.11s" begin="2.74s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="243.1" cy="69.2" r="1.16" fill="#F5F7FF">
+      <animate attributeName="opacity" values="0.33;1;0.33" dur="2.87s" begin="1.75s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="361.5" cy="62.6" r="1.6" fill="#F5F7FF">
+      <animate attributeName="opacity" values="0.16;1;0.16" dur="3.32s" begin="0.27s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="106.5" cy="160.6" r="1.39" fill="#F5F7FF">
+      <animate attributeName="opacity" values="0.23;1;0.23" dur="3.16s" begin="0.19s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="886.6" cy="137.0" r="1.57" fill="#F5F7FF">
+      <animate attributeName="opacity" values="0.29;1;0.29" dur="3.95s" begin="0.03s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="609.9" cy="138.9" r="0.87" fill="#F5F7FF">
+      <animate attributeName="opacity" values="0.24;1;0.24" dur="3.55s" begin="0.33s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="409.3" cy="238.9" r="1.48" fill="#F5F7FF">
+      <animate attributeName="opacity" values="0.19;1;0.19" dur="2.87s" begin="1.5s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="813.1" cy="218.9" r="0.9" fill="#F5F7FF">
+      <animate attributeName="opacity" values="0.18;1;0.18" dur="3.55s" begin="1.83s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="681.0" cy="139.5" r="1.38" fill="#F5F7FF">
+      <animate attributeName="opacity" values="0.21;1;0.21" dur="3.35s" begin="0.0s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="27.1" cy="233.0" r="1.48" fill="#F5F7FF">
+      <animate attributeName="opacity" values="0.16;1;0.16" dur="3.9s" begin="0.92s" repeatCount="indefinite" />
+    </circle>
+
+  <!-- occasional shooting star -->
+  <g>
+    <circle cx="0" cy="0" r="1.6" fill="#E5E7EB">
+      <animateMotion dur="12s" repeatCount="indefinite"
+        keyPoints="0;0.15;0.15;1" keyTimes="0;0.15;0.16;1" calcMode="linear"
+        path="M 40,20 L 260,140" />
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.02;0.13;0.16;1" dur="12s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <!-- thin orbit accent, tucked below all text -->
+  <ellipse cx="450" cy="244" rx="380" ry="7" fill="none" stroke="url(#ringGrad)" stroke-width="1">
+    <animateTransform attributeName="transform" type="rotate" from="0 450 244" to="360 450 244" dur="50s" repeatCount="indefinite" />
+  </ellipse>
+
+  <!-- boot sequence text (fades out) -->
+  <g class="mono" fill="#7DD3FC" font-size="17">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.10;0.55;0.72" dur="6s" begin="0s" repeatCount="1" fill="freeze" />
+    <text x="30" y="72">&gt; INITIALIZING GALACTIC TERMINAL...</text>
+    <text x="30" y="100">&gt; SCANNING DEVELOPER SIGNATURE...</text>
+    <text x="30" y="128">&gt; PROJECT ARCHIVE FOUND</text>
+    <text x="30" y="156" fill="#A7F3D0">&gt; SIGNAL STABLE — CONNECTION ESTABLISHED</text>
+  </g>
+
+  <!-- identity reveal (fades in, stays) -->
+  <g text-anchor="middle" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.62;0.85;1" dur="6s" begin="0s" repeatCount="1" fill="freeze" />
+    <text x="450" y="108" class="mono" font-size="40" letter-spacing="6" fill="#F5F7FF" font-weight="600">DARSHIL SAMSON</text>
+    <text x="450" y="140" class="mono" font-size="18" letter-spacing="2.5" fill="#A78BFA">AI / ML &#183; SYSTEMS &#183; FULL-STACK</text>
+    <text x="450" y="176" class="mono" font-size="14.5" letter-spacing="0.5" fill="#94A3B8">STATUS: BUILDING &#160;&#160;|&#160;&#160; ORIGIN: INDIA &#160;&#160;|&#160;&#160; MISSION: ENGINEERING THE NEXT SYSTEM</text>
+  </g>
+</svg>

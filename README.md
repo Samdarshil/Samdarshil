@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="hero.svg" width="100%" alt="Terminal identity boot: Darshil — AI/ML engineer in progress, systems, AI, automation. BCA (AI/ML) at JNU JAIPUR, AI/ML intern at DecodeLabs. Location India. Status: building." />
+<img src="hero-1.svg" width="100%" alt="Terminal identity boot: Darshil — AI/ML engineer in progress, systems, AI, automation. BCA (AI/ML) at JNU JAIPUR, AI/ML intern at DecodeLabs. Location India. Status: building." />
 
 <sub>[`./identity`](#01-identity) &nbsp;·&nbsp; [`./engineering-dna`](#02-engineering-dna) &nbsp;·&nbsp; [`./featured-mission`](#03-featured-mission) &nbsp;·&nbsp; [`./archive`](#04-project-archive) &nbsp;·&nbsp; [`./telemetry`](#05-system-telemetry) &nbsp;·&nbsp; [`./connect`](#07-establish-connection)</sub>
 

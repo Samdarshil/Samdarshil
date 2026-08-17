@@ -1,0 +1,210 @@
+<svg width="100%" viewBox="0 0 1000 440" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Darshil — identity terminal: boot sequence, name reveal, mission statement, and system status, over a deep-space field">
+  <defs>
+    <radialGradient id="bgGlow" cx="30%" cy="30%" r="90%">
+      <stop offset="0%" stop-color="#0E1730" />
+      <stop offset="55%" stop-color="#070A16" />
+      <stop offset="100%" stop-color="#040509" />
+    </radialGradient>
+    <radialGradient id="nebula1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#A78BFA" stop-opacity="0.16" />
+      <stop offset="100%" stop-color="#A78BFA" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="nebula2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.14" />
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="planetGrad" cx="50%" cy="0%" r="75%">
+      <stop offset="0%" stop-color="#1B2A4A" />
+      <stop offset="45%" stop-color="#0C1526" />
+      <stop offset="100%" stop-color="#040509" />
+    </radialGradient>
+    <radialGradient id="moonGrad" cx="35%" cy="35%" r="65%">
+      <stop offset="0%" stop-color="#2A3B5C" />
+      <stop offset="100%" stop-color="#0A0E1A" />
+    </radialGradient>
+    <linearGradient id="scanGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0" />
+      <stop offset="50%" stop-color="#22D3EE" stop-opacity="0.55" />
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="cometTail" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F5F7FF" stop-opacity="0" />
+      <stop offset="100%" stop-color="#F5F7FF" stop-opacity="0.9" />
+    </linearGradient>
+    <clipPath id="panelClip"><rect x="1" y="1" width="998" height="438" rx="10" /></clipPath>
+    <style>.mono { font-family: 'Fira Code','SFMono-Regular',Consolas,monospace; }</style>
+  </defs>
+
+  <g clip-path="url(#panelClip)">
+    <rect width="1000" height="440" fill="url(#bgGlow)" />
+
+    <!-- nebula wisps, low opacity, on-palette -->
+    <ellipse cx="150" cy="330" rx="220" ry="140" fill="url(#nebula1)">
+      <animate attributeName="cx" values="150;175;150" dur="26s" repeatCount="indefinite" />
+    </ellipse>
+    <ellipse cx="770" cy="120" rx="260" ry="150" fill="url(#nebula2)">
+      <animate attributeName="cx" values="770;740;770" dur="30s" repeatCount="indefinite" />
+    </ellipse>
+
+    <!-- faint HUD grid -->
+    <g stroke="#13203A" stroke-width="1">
+      <line x1="0" y1="145" x2="1000" y2="145" opacity="0.4" />
+      <line x1="0" y1="295" x2="1000" y2="295" opacity="0.4" />
+    </g>
+
+    <!-- planet horizon (main) -->
+    <circle cx="820" cy="510" r="230" fill="url(#planetGrad)" stroke="#22D3EE" stroke-width="1" stroke-opacity="0.25" />
+    <!-- distant moon, upper right -->
+    <circle cx="930" cy="64" r="22" fill="url(#moonGrad)" stroke="#334155" stroke-width="1" />
+    <path d="M 918,52 A 22,22 0 0 0 918,76 A 17,22 0 0 1 918,52 Z" fill="#040509" fill-opacity="0.55" />
+
+    <!-- starfield -->
+    <circle cx="913.0" cy="334.4" r="1.3" fill="#F5F7FF"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" begin="1.89s" repeatCount="indefinite" /></circle>
+    <circle cx="529.2" cy="85.6" r="0.67" fill="#F5F7FF"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.27s" begin="0.71s" repeatCount="indefinite" /></circle>
+    <circle cx="38.1" cy="72.1" r="1.14" fill="#F5F7FF"><animate attributeName="opacity" values="0.25;1;0.25" dur="3.21s" begin="1.64s" repeatCount="indefinite" /></circle>
+    <circle cx="362.9" cy="63.5" r="1.2" fill="#F5F7FF"><animate attributeName="opacity" values="0.23;1;0.23" dur="3.61s" begin="2.11s" repeatCount="indefinite" /></circle>
+    <circle cx="957.6" cy="156.3" r="1.18" fill="#F5F7FF"><animate attributeName="opacity" values="0.24;1;0.24" dur="3.08s" begin="1.83s" repeatCount="indefinite" /></circle>
+    <circle cx="319.6" cy="72.1" r="0.93" fill="#F5F7FF"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.92s" begin="1.89s" repeatCount="indefinite" /></circle>
+    <circle cx="638.4" cy="101.3" r="0.66" fill="#F5F7FF"><animate attributeName="opacity" values="0.16;1;0.16" dur="2.98s" begin="2.61s" repeatCount="indefinite" /></circle>
+    <circle cx="125.1" cy="76.0" r="0.54" fill="#F5F7FF"><animate attributeName="opacity" values="0.27;1;0.27" dur="2.86s" begin="1.83s" repeatCount="indefinite" /></circle>
+    <circle cx="335.5" cy="158.4" r="0.76" fill="#F5F7FF"><animate attributeName="opacity" values="0.22;1;0.22" dur="2.93s" begin="2.49s" repeatCount="indefinite" /></circle>
+    <circle cx="265.2" cy="78.6" r="1.21" fill="#F5F7FF"><animate attributeName="opacity" values="0.16;1;0.16" dur="3.9s" begin="2.65s" repeatCount="indefinite" /></circle>
+    <circle cx="544.2" cy="325.3" r="1.03" fill="#F5F7FF"><animate attributeName="opacity" values="0.3;1;0.3" dur="4.47s" begin="0.54s" repeatCount="indefinite" /></circle>
+    <circle cx="68.4" cy="172.5" r="0.52" fill="#F5F7FF"><animate attributeName="opacity" values="0.3;1;0.3" dur="4.14s" begin="2.2s" repeatCount="indefinite" /></circle>
+    <circle cx="796.4" cy="334.4" r="0.98" fill="#F5F7FF"><animate attributeName="opacity" values="0.18;1;0.18" dur="4.57s" begin="2.4s" repeatCount="indefinite" /></circle>
+    <circle cx="961.1" cy="160.6" r="0.67" fill="#F5F7FF"><animate attributeName="opacity" values="0.16;1;0.16" dur="2.38s" begin="1.49s" repeatCount="indefinite" /></circle>
+    <circle cx="921.4" cy="334.9" r="0.69" fill="#F5F7FF"><animate attributeName="opacity" values="0.15;1;0.15" dur="2.45s" begin="1.69s" repeatCount="indefinite" /></circle>
+    <circle cx="542.4" cy="293.1" r="0.73" fill="#F5F7FF"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.21s" begin="2.88s" repeatCount="indefinite" /></circle>
+    <circle cx="347.2" cy="317.3" r="1.23" fill="#F5F7FF"><animate attributeName="opacity" values="0.19;1;0.19" dur="4.35s" begin="2.2s" repeatCount="indefinite" /></circle>
+    <circle cx="687.6" cy="298.3" r="1.08" fill="#F5F7FF"><animate attributeName="opacity" values="0.19;1;0.19" dur="2.77s" begin="0.94s" repeatCount="indefinite" /></circle>
+    <circle cx="764.1" cy="215.4" r="0.99" fill="#F5F7FF"><animate attributeName="opacity" values="0.23;1;0.23" dur="4.18s" begin="0.35s" repeatCount="indefinite" /></circle>
+    <circle cx="337.2" cy="216.0" r="1.25" fill="#F5F7FF"><animate attributeName="opacity" values="0.13;1;0.13" dur="2.8s" begin="3.04s" repeatCount="indefinite" /></circle>
+    <circle cx="560.3" cy="210.7" r="0.71" fill="#F5F7FF"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.55s" begin="1.51s" repeatCount="indefinite" /></circle>
+    <circle cx="712.3" cy="47.2" r="0.84" fill="#F5F7FF"><animate attributeName="opacity" values="0.28;1;0.28" dur="4.09s" begin="0.45s" repeatCount="indefinite" /></circle>
+    <circle cx="211.9" cy="253.1" r="0.66" fill="#F5F7FF"><animate attributeName="opacity" values="0.13;1;0.13" dur="3.28s" begin="1.35s" repeatCount="indefinite" /></circle>
+    <circle cx="694.0" cy="192.0" r="1.12" fill="#F5F7FF"><animate attributeName="opacity" values="0.21;1;0.21" dur="3.49s" begin="1.78s" repeatCount="indefinite" /></circle>
+    <circle cx="303.5" cy="319.2" r="0.58" fill="#F5F7FF"><animate attributeName="opacity" values="0.21;1;0.21" dur="4.3s" begin="2.76s" repeatCount="indefinite" /></circle>
+    <circle cx="769.2" cy="250.7" r="1.04" fill="#F5F7FF"><animate attributeName="opacity" values="0.18;1;0.18" dur="2.9s" begin="1.02s" repeatCount="indefinite" /></circle>
+    <circle cx="307.7" cy="337.7" r="0.81" fill="#F5F7FF"><animate attributeName="opacity" values="0.27;1;0.27" dur="3.13s" begin="1.34s" repeatCount="indefinite" /></circle>
+    <circle cx="478.4" cy="214.3" r="0.73" fill="#F5F7FF"><animate attributeName="opacity" values="0.16;1;0.16" dur="2.87s" begin="0.29s" repeatCount="indefinite" /></circle>
+    <circle cx="270.5" cy="305.1" r="0.95" fill="#F5F7FF"><animate attributeName="opacity" values="0.14;1;0.14" dur="2.46s" begin="1.48s" repeatCount="indefinite" /></circle>
+    <circle cx="564.2" cy="180.4" r="1.27" fill="#F5F7FF"><animate attributeName="opacity" values="0.16;1;0.16" dur="2.82s" begin="2.72s" repeatCount="indefinite" /></circle>
+    <circle cx="969.1" cy="238.8" r="0.54" fill="#F5F7FF"><animate attributeName="opacity" values="0.19;1;0.19" dur="4.14s" begin="0.88s" repeatCount="indefinite" /></circle>
+    <circle cx="156.5" cy="300.6" r="0.58" fill="#F5F7FF"><animate attributeName="opacity" values="0.24;1;0.24" dur="3.97s" begin="1.27s" repeatCount="indefinite" /></circle>
+    <circle cx="298.9" cy="69.8" r="1.32" fill="#F5F7FF"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.77s" begin="0.54s" repeatCount="indefinite" /></circle>
+    <circle cx="900.3" cy="101.5" r="0.52" fill="#F5F7FF"><animate attributeName="opacity" values="0.25;1;0.25" dur="3.67s" begin="0.45s" repeatCount="indefinite" /></circle>
+    <circle cx="469.7" cy="261.6" r="1.46" fill="#7DD3FC"><animate attributeName="opacity" values="0.25;0.9;0.25" dur="4.54s" begin="2.46s" repeatCount="indefinite" /></circle>
+    <circle cx="600.0" cy="225.8" r="1.26" fill="#7DD3FC"><animate attributeName="opacity" values="0.25;0.9;0.25" dur="3.27s" begin="0.28s" repeatCount="indefinite" /></circle>
+    <circle cx="846.9" cy="108.7" r="1.34" fill="#7DD3FC"><animate attributeName="opacity" values="0.25;0.9;0.25" dur="3.63s" begin="1.86s" repeatCount="indefinite" /></circle>
+    <circle cx="532.4" cy="307.1" r="1.35" fill="#7DD3FC"><animate attributeName="opacity" values="0.25;0.9;0.25" dur="3.72s" begin="1.95s" repeatCount="indefinite" /></circle>
+    <circle cx="737.9" cy="327.3" r="1.25" fill="#7DD3FC"><animate attributeName="opacity" values="0.25;0.9;0.25" dur="4.77s" begin="2.94s" repeatCount="indefinite" /></circle>
+    <circle cx="968.9" cy="85.3" r="1.3" fill="#7DD3FC"><animate attributeName="opacity" values="0.25;0.9;0.25" dur="4.55s" begin="2.49s" repeatCount="indefinite" /></circle>
+    <circle cx="52.4" cy="166.1" r="1.58" fill="#7DD3FC"><animate attributeName="opacity" values="0.25;0.9;0.25" dur="4.52s" begin="1.61s" repeatCount="indefinite" /></circle>
+    <circle cx="218.7" cy="169.7" r="1.05" fill="#7DD3FC"><animate attributeName="opacity" values="0.25;0.9;0.25" dur="3.63s" begin="1.28s" repeatCount="indefinite" /></circle>
+
+    <!-- constellation accent -->
+<line x1="700" y1="210" x2="742" y2="190" stroke="#22D3EE" stroke-width="0.7" stroke-opacity="0.35" />
+<line x1="742" y1="190" x2="788" y2="224" stroke="#22D3EE" stroke-width="0.7" stroke-opacity="0.35" />
+<line x1="788" y1="224" x2="820" y2="196" stroke="#22D3EE" stroke-width="0.7" stroke-opacity="0.35" />
+<line x1="788" y1="224" x2="776" y2="258" stroke="#22D3EE" stroke-width="0.7" stroke-opacity="0.35" />
+<line x1="776" y1="258" x2="734" y2="250" stroke="#22D3EE" stroke-width="0.7" stroke-opacity="0.35" />
+<line x1="734" y1="250" x2="700" y2="210" stroke="#22D3EE" stroke-width="0.7" stroke-opacity="0.35" />
+<circle cx="700" cy="210" r="1.8" fill="#BAE6FD"><animate attributeName="opacity" values="0.5;1;0.5" dur="3.59s" begin="1.18s" repeatCount="indefinite" /></circle>
+<circle cx="742" cy="190" r="1.8" fill="#BAE6FD"><animate attributeName="opacity" values="0.5;1;0.5" dur="3.1s" begin="0.49s" repeatCount="indefinite" /></circle>
+<circle cx="788" cy="224" r="1.8" fill="#BAE6FD"><animate attributeName="opacity" values="0.5;1;0.5" dur="2.98s" begin="1.34s" repeatCount="indefinite" /></circle>
+<circle cx="820" cy="196" r="1.8" fill="#BAE6FD"><animate attributeName="opacity" values="0.5;1;0.5" dur="3.13s" begin="0.35s" repeatCount="indefinite" /></circle>
+<circle cx="776" cy="258" r="1.8" fill="#BAE6FD"><animate attributeName="opacity" values="0.5;1;0.5" dur="3.59s" begin="1.15s" repeatCount="indefinite" /></circle>
+<circle cx="734" cy="250" r="1.8" fill="#BAE6FD"><animate attributeName="opacity" values="0.5;1;0.5" dur="3.76s" begin="1.07s" repeatCount="indefinite" /></circle>
+
+    <!-- comet, infrequent -->
+    <g>
+      <line x1="-40" y1="0" x2="0" y2="0" stroke="url(#cometTail)" stroke-width="2">
+        <animateMotion dur="13s" repeatCount="indefinite"
+          keyPoints="0;0.12;0.12;1" keyTimes="0;0.12;0.13;1" calcMode="linear"
+          path="M 60,40 L 300,170" />
+      </line>
+      <circle cx="0" cy="0" r="1.8" fill="#F5F7FF">
+        <animateMotion dur="13s" repeatCount="indefinite"
+          keyPoints="0;0.12;0.12;1" keyTimes="0;0.12;0.13;1" calcMode="linear"
+          path="M 60,40 L 300,170" />
+        <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.02;0.11;0.13;1" dur="13s" repeatCount="indefinite" />
+      </circle>
+    </g>
+
+    <!-- chrome bar -->
+    <rect x="0" y="0" width="1000" height="34" fill="#070A16" fill-opacity="0.7" />
+    <line x1="0" y1="34" x2="1000" y2="34" stroke="#1E293B" stroke-width="1" />
+    <circle cx="20" cy="17" r="4" fill="none" stroke="#475569" stroke-width="1.2" />
+    <circle cx="36" cy="17" r="4" fill="none" stroke="#475569" stroke-width="1.2" />
+    <circle cx="52" cy="17" r="4" fill="none" stroke="#475569" stroke-width="1.2" />
+    <text x="72" y="21" class="mono" font-size="12" fill="#64748B">terminal://identity.initializing</text>
+    <text x="980" y="21" text-anchor="end" class="mono" font-size="12" fill="#64748B">STATUS: ONLINE</text>
+    <circle cx="875" cy="17" r="3" fill="#34D399">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite" />
+    </circle>
+
+    <!-- HUD corner ticks (lower area) -->
+    <path d="M 20,420 L 20,398 M 20,420 L 42,420" stroke="#22D3EE" stroke-width="1" opacity="0.4" />
+    <path d="M 980,420 L 980,398 M 980,420 L 958,420" stroke="#22D3EE" stroke-width="1" opacity="0.4" />
+
+    <!-- boot lines -->
+    <g class="mono" font-size="14" fill="#7DD3FC" opacity="0">
+      <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.09;1" dur="7.5s" begin="0s" repeatCount="1" fill="freeze" />
+      <text x="40" y="72">&gt; INITIATING IDENTITY PROTOCOL...</text>
+      <text x="40" y="94">&gt; LOADING...</text>
+    </g>
+
+    <!-- name -->
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.20;0.34;1" dur="7.5s" begin="0s" repeatCount="1" fill="freeze" />
+      <text x="40" y="172" class="mono" font-size="60" letter-spacing="8" fill="#F5F7FF" font-weight="600">DARSHIL</text>
+      <rect x="330" y="140" width="12" height="42" fill="#22D3EE">
+        <animate attributeName="opacity" values="1;0;1" dur="0.9s" begin="2.55s" repeatCount="indefinite" />
+      </rect>
+    </g>
+
+    <!-- statement box -->
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.42;0.56;1" dur="7.5s" begin="0s" repeatCount="1" fill="freeze" />
+      <rect x="40" y="200" width="420" height="72" rx="4" fill="#0A0E1A" fill-opacity="0.6" stroke="#22D3EE" stroke-opacity="0.35" stroke-width="1" />
+      <text x="56" y="228" class="mono" font-size="13.5" fill="#E5E7EB">I build intelligent systems that turn messy</text>
+      <text x="56" y="248" class="mono" font-size="13.5" fill="#E5E7EB">ideas into working software — then rebuild</text>
+      <text x="56" y="264" class="mono" font-size="13.5" fill="#E5E7EB">until it holds.</text>
+    </g>
+
+    <!-- ready line -->
+    <g class="mono" font-size="13" fill="#34D399" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.86;0.94;1" dur="7.5s" begin="0s" repeatCount="1" fill="freeze" />
+      <text x="40" y="310">&gt; READY.</text>
+    </g>
+
+    <!-- info table (trimmed: no college / internship rows) -->
+    <g class="mono" font-size="12.5" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.58;0.80;1" dur="7.5s" begin="0s" repeatCount="1" fill="freeze" />
+      <text x="530" y="96" fill="#7DD3FC" letter-spacing="1">ROLE</text>
+      <text x="660" y="96" fill="#F5F7FF">AI/ML ENGINEER IN PROGRESS</text>
+      <text x="530" y="122" fill="#7DD3FC" letter-spacing="1">FOCUS</text>
+      <text x="660" y="122" fill="#F5F7FF">SYSTEMS &#183; AI &#183; AUTOMATION</text>
+      <text x="530" y="148" fill="#7DD3FC" letter-spacing="1">LOCATION</text>
+      <text x="660" y="148" fill="#F5F7FF">INDIA</text>
+      <text x="530" y="174" fill="#7DD3FC" letter-spacing="1">STATUS</text>
+      <text x="660" y="174" fill="#A7F3D0">BUILDING</text>
+      <line x1="530" y1="72" x2="530" y2="190" stroke="#1E293B" stroke-width="1" />
+    </g>
+
+    <!-- baseline scan -->
+    <rect x="0" y="437" width="1000" height="2" fill="url(#scanGrad)">
+      <animate attributeName="x" values="-1000;1000" dur="10s" repeatCount="indefinite" />
+    </rect>
+
+    <!-- scroll chevron -->
+    <g class="mono" opacity="0">
+      <animate attributeName="opacity" values="0;0;0.7;0.7" keyTimes="0;0.86;0.94;1" dur="7.5s" begin="0s" repeatCount="1" fill="freeze" />
+      <path d="M 493,410 L 500,418 L 507,410" stroke="#64748B" stroke-width="1.4" fill="none">
+        <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite" />
+      </path>
+    </g>
+  </g>
+
+  <rect x="0.5" y="0.5" width="999" height="439" rx="10" fill="none" stroke="#1E293B" stroke-width="1" />
+</svg>

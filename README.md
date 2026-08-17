@@ -106,7 +106,7 @@ I'd rather spend an extra hour understanding *why* something broke than patch ar
 
 ## `05` SYSTEM TELEMETRY
 
-<img src="assets/scanner.svg" width="100%" alt="System telemetry panel header with a scanning indicator" />
+<img src="scanner.svg" width="100%" alt="System telemetry panel header with a scanning indicator" />
 
 **AI / ML**
 [![Python](https://img.shields.io/badge/Python-0B0F1E?style=for-the-badge&logo=python&logoColor=white)](#)

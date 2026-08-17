@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="assets/hero-terminal.svg" width="100%" alt="Terminal boot sequence resolving into the identity banner: Darshil Samson — AI/ML, Systems, Full-Stack. Status: building. Origin: India. Mission: engineering the next system." />
+<img src="hero-terminal.svg" width="100%" alt="Terminal boot sequence resolving into the identity banner: Darshil Samson — AI/ML, Systems, Full-Stack. Status: building. Origin: India. Mission: engineering the next system." />
 
 <sub>[`./scan missions`](#01-mission-control) &nbsp;·&nbsp; [`./launch career-guardian-ai`](#02-featured-mission) &nbsp;·&nbsp; [`./open deep-space-archive`](#03-deep-space-archive) &nbsp;·&nbsp; [`./scan telemetry`](#05-system-telemetry) &nbsp;·&nbsp; [`./locate contact`](#08-establish-contact)</sub>
 
@@ -20,7 +20,7 @@ Focused engineer-in-progress driven by systems thinking, fundamentals, and disci
 
 ## `01` MISSION CONTROL
 
-<img src="assets/orbital-missions.svg" width="100%" alt="Orbital map: four missions in orbit around a central star labeled Darshil — Career Guardian AI, DecodeLabs, VOID's Calamity, and D&A Digital, each tagged with its current status." />
+<img src="orbital-missions.svg" width="100%" alt="Orbital map: four missions in orbit around a central star labeled Darshil — Career Guardian AI, DecodeLabs, VOID's Calamity, and D&A Digital, each tagged with its current status." />
 
 | Status | Mission | |
 |:---|:---|:---|

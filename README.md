@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Terminal identity boot: Darshil — AI/ML engineer in progress, systems, AI, automation. BCA (AI/ML) at JNU, AI/ML intern at DecodeLabs. Location India. Status: building." />
+<img src="hero.svg" width="100%" alt="Terminal identity boot: Darshil — AI/ML engineer in progress, systems, AI, automation. BCA (AI/ML) at JNU, AI/ML intern at DecodeLabs. Location India. Status: building." />
 
 <sub>[`./identity`](#01-identity) &nbsp;·&nbsp; [`./engineering-dna`](#02-engineering-dna) &nbsp;·&nbsp; [`./featured-mission`](#03-featured-mission) &nbsp;·&nbsp; [`./archive`](#04-project-archive) &nbsp;·&nbsp; [`./telemetry`](#05-system-telemetry) &nbsp;·&nbsp; [`./connect`](#07-establish-connection)</sub>
 
@@ -28,7 +28,7 @@ BCA (AI/ML) at Jaipur National University · AI/ML Intern at DecodeLabs · India
 
 ## `02` ENGINEERING DNA
 
-<img src="assets/dna-strip.svg" width="100%" alt="Engineering process loop: observe, build, break, debug, understand, rebuild, ship" />
+<img src="dna-strip.svg" width="100%" alt="Engineering process loop: observe, build, break, debug, understand, rebuild, ship" />
 
 > I don't fear breaking things. I fear not understanding why they broke.
 > Depth over speed, always.
@@ -46,7 +46,7 @@ A multi-agent system that turns a resume into clarity, direction, and a focused 
 
 Five specialist agents, coordinated by an orchestrator, extract resume intelligence, detect career direction, surface skill gaps, and generate a 30/60/90-day roadmap. Its flagship output, the **Focus Score**, is a weighted composite that flags when a resume is targeting too many directions at once.
 
-<img src="assets/architecture.svg" width="100%" alt="System architecture: user through orchestrator to resume agent, career agent, and skill gap agent, into roadmap and resource agents, into a live SSE dashboard" />
+<img src="architecture.svg" width="100%" alt="System architecture: user through orchestrator to resume agent, career agent, and skill gap agent, into roadmap and resource agents, into a live SSE dashboard" />
 
 - Multi-agent architecture, not a single prompt wearing different hats
 - Live SSE dashboard streaming per-agent progress
@@ -89,7 +89,7 @@ Four applied AI/ML and software-engineering builds, each self-contained with its
 
 ## `05` SYSTEM TELEMETRY
 
-<img src="assets/telemetry.svg" width="100%" alt="Technology stack grouped by category: AI/ML, computer vision, backend, frontend, tools and platforms, and foundations" />
+<img src="telemetry.svg" width="100%" alt="Technology stack grouped by category: AI/ML, computer vision, backend, frontend, tools and platforms, and foundations" />
 
 <br />
 
@@ -113,5 +113,5 @@ Four applied AI/ML and software-engineering builds, each self-contained with its
 <br />
 
 <div align="center">
-<img src="assets/footer.svg" width="100%" alt="Session ending: terminal shutdown sequence and closing quote from Darshil" />
+<img src="footer.svg" width="100%" alt="Session ending: terminal shutdown sequence and closing quote from Darshil" />
 </div>

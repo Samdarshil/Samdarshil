@@ -89,8 +89,6 @@ Four applied AI/ML and software-engineering builds, each self-contained with its
 
 ## `05` SYSTEM TELEMETRY
 
-<img src="scanner.svg" width="100%" alt="System telemetry panel header with a scanning indicator" />
-
 **AI / ML**
 [![Python](https://img.shields.io/badge/Python-0B0F1E?style=for-the-badge&logo=python&logoColor=white)](#)
 [![Google Gemini](https://img.shields.io/badge/Google_Gemini-0B0F1E?style=for-the-badge&logo=googlegemini&logoColor=white)](#)
